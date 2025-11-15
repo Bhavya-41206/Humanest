@@ -1,0 +1,9 @@
+{
+    "name": "humanest-website",
+    "version": "1.0.0",
+    "description": "Humanest Smart Portable Shelters Website",
+    "main": "index.html",
+    "scripts": {
+      "start": "npx http-server -p 8000"
+    }
+  }

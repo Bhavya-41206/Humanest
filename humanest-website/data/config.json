@@ -1,0 +1,52 @@
+{
+    "company": {
+      "name": "Humanest",
+      "email": "humanest.shelters@example.com",
+      "phone": "+91-XXXXXXXXXX",
+      "social": {
+        "instagram": "#",
+        "youtube": "#",
+        "linkedin": "#"
+      }
+    },
+    "product": {
+      "name": "Smart Portable Shelters",
+      "description": "Portable, foldable, solar-powered shelters with climate control and IoT for fast deployment",
+      "features": [
+        {
+          "name": "Portable & Foldable",
+          "description": "Deploy quickly in tight urban spaces"
+        },
+        {
+          "name": "Solar Power",
+          "description": "Self-sufficient basic utilities"
+        },
+        {
+          "name": "Climate Control",
+          "description": "Comfort in heat and cold"
+        },
+        {
+          "name": "IoT & Tracking",
+          "description": "Remote monitoring & safety alerts"
+        }
+      ],
+      "specs": {
+        "setupTime": "10 minutes",
+        "materials": "Lightweight composite",
+        "warranty": "Available",
+        "support": "Available"
+      }
+    },
+    "business": {
+      "model": "Low-cost rental + subscription for maintenance",
+      "pricing": "Social-first pricing",
+      "tam": "USD 30B (global)",
+      "sam": "USD 2.5B (India urban)",
+      "unitRent": "₹5,000/month"
+    },
+    "targetUsers": [
+      "Urban homeless families",
+      "Disaster relief agencies",
+      "NGOs & municipal bodies"
+    ]
+  }
