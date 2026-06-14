@@ -9,7 +9,7 @@ A responsive website for Humanest smart portable shelters project.
 - Mobile-friendly
 
 ## Live Demo
-[View Live Website](https://your-username.github.io/humanest-website)
+[View Live Website]([https://your-username.github.io/humanest-website](https://humanest.netlify.app/))
 
 ## Technologies Used
 - HTML5
